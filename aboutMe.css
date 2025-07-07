@@ -1,0 +1,17 @@
+.m{
+    font-size: 5.75em;
+    line-height: .76em;
+    margin-right: .1em;
+    float: left;
+    display: block;
+    position: relative;
+    font-family: verdana, sans-serif, 'Whitney A';
+    font-weight: bold;
+    color: #e6aee1;
+}
+p{
+    font-size: 16.2px;
+    
+    font-family: verdana, sans-serif, 'Whitney A';
+    color: #101010;
+}
